@@ -1,1 +1,4 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+SOme studying on D# Charts using Next.js and React.js
+
+
+npm run dev
